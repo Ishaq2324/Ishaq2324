@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **AI-Generated Study Notes App**
+- 👯 I’m looking to collaborate on **AI Deepfake Detection System**
 
 - 💬 Ask me about **Web Design, Gen-AI**
 
