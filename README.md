@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammad Ishaq</h1>
 <h3 align="center">Frontend Developer | Specialized in Generative AI, Prompt Engineering & Modern UI/UX Design</h3>
-<img align="right" alt="coding!" width=300 Height=500 src="https://64.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif"/img>
+<img align="right" alt="coding!" width=300  src="[https://64.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif](https://camo.githubusercontent.com/35f3ff8aa0e6901c8bea9df1007497e35dbaf98441c34c0a7b25a3e29dd19840/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62632f39382f63392f62633938633964636337363839336134366663373166333932303834366130352e676966)"/img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaq2324&label=Profile%20views&color=0e75b6&style=flat" alt="ishaq2324" /> </p>
 
